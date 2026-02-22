@@ -1,6 +1,6 @@
 # HR-Dashboard
 
-Power BI Project Description (4 Departments Dashboard)
+Power BI Project Description ( Departments Dashboard)
 
 This Power BI project presents a comparative analysis of four departments within an organization: Sales, HR, Finance, and IT. The dashboard is designed to visualize and analyze departmental performance using interactive charts and data visualizations.
 
